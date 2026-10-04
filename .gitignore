@@ -1,0 +1,13 @@
+target/
+*.log
+*.log.*
+*.bin
+*.lock.runtime
+.atcs_instance.lock
+nohup.out
+*.bak
+*.old
+*.COP
+*.BARRA_2
+*.pre_*
+*_antigo
